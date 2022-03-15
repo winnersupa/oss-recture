@@ -5,10 +5,10 @@
 
 ### Code
 
-'''javascript
+```javascript
 var foo = 'bar';
 if(true) foo = 'foo';
-''' 
+``` 
 
 first | second
 ------|--------
