@@ -12,3 +12,4 @@ if(true) foo = 'foo';
 
 first | second
 ------|--------
+------|--------
