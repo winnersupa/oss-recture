@@ -10,6 +10,7 @@ var foo = 'bar';
 if(true) foo = 'foo';
 ``` 
 
-first | second
+first | second | thirth
 ------|--------
 ------|--------
+
